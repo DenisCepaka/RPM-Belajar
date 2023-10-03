@@ -17,7 +17,7 @@
 
 // algoritma
 //isi algoritma mu disini (AWAS KALO GA DI ISI!!!!)
-git remote add origin https://github.com/DenisCepaka/RPM-Belajar
+// git remote add origin https://github.com/DenisCepaka/RPM-Belajar
 
 // let nama = "", peran = "";
 
